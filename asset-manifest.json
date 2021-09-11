@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/spy-followers/static/css/main.5850c4ba.chunk.css",
+    "main.js": "/spy-followers/static/js/main.59d79a68.chunk.js",
+    "main.js.map": "/spy-followers/static/js/main.59d79a68.chunk.js.map",
+    "runtime-main.js": "/spy-followers/static/js/runtime-main.7c38d7de.js",
+    "runtime-main.js.map": "/spy-followers/static/js/runtime-main.7c38d7de.js.map",
+    "static/js/2.8c0c4997.chunk.js": "/spy-followers/static/js/2.8c0c4997.chunk.js",
+    "static/js/2.8c0c4997.chunk.js.map": "/spy-followers/static/js/2.8c0c4997.chunk.js.map",
+    "index.html": "/spy-followers/index.html",
+    "static/css/main.5850c4ba.chunk.css.map": "/spy-followers/static/css/main.5850c4ba.chunk.css.map",
+    "static/js/2.8c0c4997.chunk.js.LICENSE.txt": "/spy-followers/static/js/2.8c0c4997.chunk.js.LICENSE.txt",
+    "static/media/avatar.7fe14f0a.jpg": "/spy-followers/static/media/avatar.7fe14f0a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c38d7de.js",
+    "static/js/2.8c0c4997.chunk.js",
+    "static/css/main.5850c4ba.chunk.css",
+    "static/js/main.59d79a68.chunk.js"
+  ]
+}
