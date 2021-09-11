@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/spy-follow/static/css/main.5850c4ba.chunk.css",
-    "main.js": "/spy-follow/static/js/main.00f3d942.chunk.js",
-    "main.js.map": "/spy-follow/static/js/main.00f3d942.chunk.js.map",
+    "main.js": "/spy-follow/static/js/main.5f8cd919.chunk.js",
+    "main.js.map": "/spy-follow/static/js/main.5f8cd919.chunk.js.map",
     "runtime-main.js": "/spy-follow/static/js/runtime-main.fa472b5f.js",
     "runtime-main.js.map": "/spy-follow/static/js/runtime-main.fa472b5f.js.map",
-    "static/js/2.10e8cd03.chunk.js": "/spy-follow/static/js/2.10e8cd03.chunk.js",
-    "static/js/2.10e8cd03.chunk.js.map": "/spy-follow/static/js/2.10e8cd03.chunk.js.map",
+    "static/js/2.64adb46b.chunk.js": "/spy-follow/static/js/2.64adb46b.chunk.js",
+    "static/js/2.64adb46b.chunk.js.map": "/spy-follow/static/js/2.64adb46b.chunk.js.map",
     "index.html": "/spy-follow/index.html",
     "static/css/main.5850c4ba.chunk.css.map": "/spy-follow/static/css/main.5850c4ba.chunk.css.map",
-    "static/js/2.10e8cd03.chunk.js.LICENSE.txt": "/spy-follow/static/js/2.10e8cd03.chunk.js.LICENSE.txt",
+    "static/js/2.64adb46b.chunk.js.LICENSE.txt": "/spy-follow/static/js/2.64adb46b.chunk.js.LICENSE.txt",
     "static/media/avatar.7fe14f0a.jpg": "/spy-follow/static/media/avatar.7fe14f0a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fa472b5f.js",
-    "static/js/2.10e8cd03.chunk.js",
+    "static/js/2.64adb46b.chunk.js",
     "static/css/main.5850c4ba.chunk.css",
-    "static/js/main.00f3d942.chunk.js"
+    "static/js/main.5f8cd919.chunk.js"
   ]
 }
